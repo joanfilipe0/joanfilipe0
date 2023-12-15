@@ -54,6 +54,11 @@
   <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
+    <a href="#" rel="nofollow">
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+  </a>
+
+ 
 </p>
 
 
@@ -70,6 +75,9 @@
   </a>
     <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  </a>
+    <a href="#" rel="nofollow">
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   </a>
 
   
